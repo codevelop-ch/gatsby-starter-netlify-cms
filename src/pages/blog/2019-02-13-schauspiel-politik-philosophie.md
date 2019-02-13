@@ -9,3 +9,5 @@ tags:
   - Publikationen
 ---
 [Habilitationsschrift, im Frühjahr 2016 angenommen an der Philosophischen Fakultät der Universität Zürich, (409 Seiten)](https://google.ch)
+
+![](/img/chemex.jpg)
